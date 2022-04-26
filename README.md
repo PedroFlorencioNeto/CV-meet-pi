@@ -6,12 +6,15 @@ O que é a Seara? 🤔️
 
 - A Seara da Ciência, órgão de divulgação científica da Universidade Federal do Ceará, busca popularizar a ciência para alunos, professores e visitantes em geral e tem como vertente um museu lotado de experimentos com projetos tecnológicos que buscam despertar o interesse deste público, tendo como lema “é proibido não mexer”. 
 
+![seara](searadaciencia.jpg)
+
 - Com o surgimento da pandemia de Covid-19 no ano de 2020, evitar o contato direto com objetos compartilhados, se tornou uma das principais medidas adotadas para combater a propagação do vírus causador da doença. Tendo em vista esse contexto e a necessidade de renovação do experimento que apresenta o cálculo do número pi no salão, foi criado o projeto “Conheça o Pi”, que busca causar uma admiração pela história deste número, através da interação com uma interface gráfica que calcula junto com o usuário o valor do número pi, da mesma forma que Arquimedes calculou, por volta de 240 a.c. 
 
-- 🧐️ Experimento antigo:
+🧐️ Experimento antigo:
+![antigo](piantigo.jpeg)
 
-- 🤯️ Novo experimento:
-
+🤯️ Novo experimento:
+![novo](pinovo.jpg)
 
 🤖️ Ele une algoritmos de interface gráfica e de visão computacional, área do aprendizado de máquina que possibilita implementar o reconhecimento de imagens. Através das bibliotecas PyQt5 e OpenCV na linguagem Python, foi estruturado o reconhecimento de gestos com a mão, permitindo a interação a distância através de uma câmera, evitando o contato e compartilhamento de teclado e mouse entre os visitantes. 
 
