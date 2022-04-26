@@ -1,6 +1,6 @@
 # Conheça o Número Pi
 
-Bem-vindo ao projeto Conheça o Pi! Ele foi desenvolvido durante o ano de 2021 na Seara. 👨‍💻️
+Bem-vindo ao projeto "Conheça o Pi"! Ele foi desenvolvido durante o ano de 2021 na Seara. 👨‍💻️
 
 O que é a Seara? 🤔️
 
