@@ -14,7 +14,7 @@ class Ui_MainWindow(object):
             self.label = QtWidgets.QLabel(self.centralwidget)
             self.label.setGeometry(QtCore.QRect(0, 0, 1024, 768))
             self.label.setText("")
-            self.label.setPixmap(QtGui.QPixmap("/home/pedroflorencio/Documents/Encontro 2021/pifinal/images2/1.png"))
+            self.label.setPixmap(QtGui.QPixmap("pi-seara-da-ciencia/images2/1.png"))
             self.label.setObjectName("label")
             self.iniciarButton = QtWidgets.QPushButton(self.centralwidget)
             self.iniciarButton.setGeometry(QtCore.QRect(440, 640, 161, 61))
@@ -41,7 +41,7 @@ class Ui_MainWindow(object):
         self.label = QtWidgets.QLabel(self.centralwidget)
         self.label.setGeometry(QtCore.QRect(0, 0, 1024, 768))
         self.label.setText("")
-        self.label.setPixmap(QtGui.QPixmap("/home/pedroflorencio/Documents/Encontro 2021/pifinal/images2/1.png"))
+        self.label.setPixmap(QtGui.QPixmap("pi-seara-da-ciencia/images2/1.png"))
         self.label.setObjectName("label")
         self.iniciarButton = QtWidgets.QPushButton(self.centralwidget)
         self.iniciarButton.setGeometry(QtCore.QRect(440, 640, 161, 61))
@@ -68,7 +68,7 @@ class Ui_MainWindow(object):
         self.labelFundo = QtWidgets.QLabel(self.centralwidget)
         self.labelFundo.setGeometry(QtCore.QRect(0, 0, 1024, 768))
         self.labelFundo.setText("")
-        self.labelFundo.setPixmap(QtGui.QPixmap("/home/pedroflorencio/Documents/Encontro 2021/pifinal/images2/2.png"))
+        self.labelFundo.setPixmap(QtGui.QPixmap("pi-seara-da-ciencia/images2/2.png"))
         self.labelFundo.setObjectName("labelFundo")
         self.queroButton = QtWidgets.QPushButton(self.centralwidget)
         self.queroButton.setGeometry(QtCore.QRect(210, 650, 251, 71))
@@ -137,7 +137,7 @@ class Ui_MainWindow(object):
         self.retranslateUi_3(MainWindow)
         QtCore.QMetaObject.connectSlotsByName(MainWindow)
 
-        self.movie = QMovie("/home/pedroflorencio/Documents/Encontro 2021/pifinal/images2/pi2.gif") 
+        self.movie = QMovie("pi-seara-da-ciencia/images2/pi2.gif") 
         self.label.setMovie(self.movie) 
         self.startAnimation() 
         self.explicacaoButton.clicked.connect(self.explicar)
@@ -152,7 +152,7 @@ class Ui_MainWindow(object):
         self.fundolabel2 = QtWidgets.QLabel(self.centralwidget)
         self.fundolabel2.setGeometry(QtCore.QRect(0, 0, 1024, 768))
         self.fundolabel2.setText("")
-        self.fundolabel2.setPixmap(QtGui.QPixmap("/home/pedroflorencio/Documents/Encontro 2021/pifinal/images2/5.png"))
+        self.fundolabel2.setPixmap(QtGui.QPixmap("pi-seara-da-ciencia/images2/5.png"))
         self.fundolabel2.setObjectName("fundolabel2")
         self.iniciarButton = QtWidgets.QPushButton(self.centralwidget)
         self.iniciarButton.setGeometry(QtCore.QRect(400, 690, 221, 61))
@@ -178,7 +178,7 @@ class Ui_MainWindow(object):
         self.labelFundo3 = QtWidgets.QLabel(self.centralwidget)
         self.labelFundo3.setGeometry(QtCore.QRect(0, 0, 1024, 768))
         self.labelFundo3.setText("")
-        self.labelFundo3.setPixmap(QtGui.QPixmap("/home/pedroflorencio/Documents/Encontro 2021/pifinal/images2/6.png"))
+        self.labelFundo3.setPixmap(QtGui.QPixmap("pi-seara-da-ciencia/images2/6.png"))
         self.labelFundo3.setObjectName("labelFundo3")
         self.repetirButton = QtWidgets.QPushButton(self.centralwidget)
         self.repetirButton.setGeometry(QtCore.QRect(360, 720, 121, 41))
@@ -210,7 +210,7 @@ class Ui_MainWindow(object):
         self.poligonoLabel = QtWidgets.QLabel(self.centralwidget)
         self.poligonoLabel.setGeometry(QtCore.QRect(380, 120, 281, 271))
         self.poligonoLabel.setText("")
-        self.poligonoLabel.setPixmap(QtGui.QPixmap("/home/pedroflorencio/Documents/Encontro 2021/pifinal/images2/six.png"))
+        self.poligonoLabel.setPixmap(QtGui.QPixmap("pi-seara-da-ciencial/images2/six.png"))
         self.poligonoLabel.setObjectName("poligonoLabel")
         self.nomeLabel = QtWidgets.QLabel(self.centralwidget)
         self.nomeLabel.setGeometry(QtCore.QRect(400, 430, 310, 31))
@@ -244,7 +244,7 @@ class Ui_MainWindow(object):
         self.label = QtWidgets.QLabel(self.centralwidget)
         self.label.setGeometry(QtCore.QRect(0, 0, 1024, 768))
         self.label.setText("")
-        self.label.setPixmap(QtGui.QPixmap("/home/pedroflorencio/Documents/Encontro 2021/pifinal/images2/7.png"))
+        self.label.setPixmap(QtGui.QPixmap("pi-seara-da-ciencia/images2/7.png"))
         self.label.setObjectName("label")
         self.iniciarButton_2 = QtWidgets.QPushButton(self.centralwidget)
         self.iniciarButton_2.setGeometry(QtCore.QRect(180, 650, 151, 61))
@@ -291,7 +291,7 @@ class Ui_MainWindow(object):
         self.label = QtWidgets.QLabel(self.centralwidget)
         self.label.setGeometry(QtCore.QRect(0, 0, 1024, 768))
         self.label.setText("")
-        self.label.setPixmap(QtGui.QPixmap("/home/pedroflorencio/Documents/Encontro 2021/pifinal/images2/8.png"))
+        self.label.setPixmap(QtGui.QPixmap("pi-seara-da-ciencia/images2/8.png"))
         self.label.setObjectName("label")
         self.procurarButton = QtWidgets.QPushButton(self.centralwidget)
         self.procurarButton.setGeometry(QtCore.QRect(390, 650, 221, 61))
@@ -323,7 +323,7 @@ class Ui_MainWindow(object):
         self.label = QtWidgets.QLabel(self.centralwidget)
         self.label.setGeometry(QtCore.QRect(0, 0, 1024, 768))
         self.label.setText("")
-        self.label.setPixmap(QtGui.QPixmap("/home/pedroflorencio/Documents/Encontro 2021/pifinal/images2/9.png"))
+        self.label.setPixmap(QtGui.QPixmap("pi-seara-da-ciencia/9.png"))
         self.label.setObjectName("label")
         self.sairButton = QtWidgets.QPushButton(self.centralwidget)
         self.sairButton.setGeometry(QtCore.QRect(200, 660, 151, 61))
@@ -369,7 +369,7 @@ class Ui_MainWindow(object):
             texto = '3,0000000000000'
             lados="Hexágono (6 lados)"
             self.retranslateUi_5(MainWindow,texto,lados)
-            self.poligonoLabel.setPixmap(QtGui.QPixmap("/home/pedroflorencio/Documents/Encontro 2021/pifinal/images2/six.png"))
+            self.poligonoLabel.setPixmap(QtGui.QPixmap("pi-seara-da-ciencia/images2/six.png"))
     
 
         # 7 lados
@@ -377,63 +377,63 @@ class Ui_MainWindow(object):
             texto = '3,0371861738229'
             lados="Heptágono (7 lados)"
             self.retranslateUi_5(MainWindow,texto,lados)
-            self.poligonoLabel.setPixmap(QtGui.QPixmap("/home/pedroflorencio/Documents/Encontro 2021/pifinal/images2/seven.png"))
+            self.poligonoLabel.setPixmap(QtGui.QPixmap("pi-seara-da-ciencia/images2/seven.png"))
 
         # 8 lados
         elif position == 2:
             texto = '3,0614674589207'
             lados="Octógono (8 lados)"
             self.retranslateUi_5(MainWindow,texto,lados)
-            self.poligonoLabel.setPixmap(QtGui.QPixmap("/home/pedroflorencio/Documents/Encontro 2021/pifinal/images2/eight.png"))
+            self.poligonoLabel.setPixmap(QtGui.QPixmap("pi-seara-da-ciencia/images2/eight.png"))
 
         # 9 lados
         elif position == 3:
             texto = '3,078181289931'
             lados="Eneágono (9 lados)"
             self.retranslateUi_5(MainWindow,texto,lados)
-            self.poligonoLabel.setPixmap(QtGui.QPixmap("/home/pedroflorencio/Documents/Encontro 2021/pifinal/images2/nine.png"))
+            self.poligonoLabel.setPixmap(QtGui.QPixmap("pi-seara-da-ciencia/images2/nine.png"))
 
         # 10 lados
         elif position == 4:
             texto = '3,0901699437495'
             lados="Decágono (10 lados)"
             self.retranslateUi_5(MainWindow,texto,lados)
-            self.poligonoLabel.setPixmap(QtGui.QPixmap("/home/pedroflorencio/Documents/Encontro 2021/pifinal/images2/ten.png"))
+            self.poligonoLabel.setPixmap(QtGui.QPixmap("pi-seara-da-ciencia/images2/ten.png"))
 
         # 11 lados
         elif position == 5:
             texto = '3,0990581252557'
             lados="Hendecágono (11 lados)"
             self.retranslateUi_5(MainWindow,texto,lados)
-            self.poligonoLabel.setPixmap(QtGui.QPixmap("/home/pedroflorencio/Documents/Encontro 2021/pifinal/images2/eleven.png"))
+            self.poligonoLabel.setPixmap(QtGui.QPixmap("pi-seara-da-ciencia/images2/eleven.png"))
 
         # 12 lados
         elif position == 6:
             texto = '3,1058285412302'
             lados="Dodecágono (12 lados)"
             self.retranslateUi_5(MainWindow,texto,lados)
-            self.poligonoLabel.setPixmap(QtGui.QPixmap("/home/pedroflorencio/Documents/Encontro 2021/pifinal/images2/twelve.png"))
+            self.poligonoLabel.setPixmap(QtGui.QPixmap("pi-seara-da-ciencia/images2/twelve.png"))
 
         # 24 lados    
         elif position == 7: 
             texto = '3,1326286132812'
             lados="Tetracoságono (24 lados)"
             self.retranslateUi_5(MainWindow,texto,lados)
-            self.poligonoLabel.setPixmap(QtGui.QPixmap("/home/pedroflorencio/Documents/Encontro 2021/pifinal/images2/twentyfour.png"))
+            self.poligonoLabel.setPixmap(QtGui.QPixmap("pi-seara-da-ciencia/images2/twentyfour.png"))
 
         # 48 lados    
         elif position == 8:
             texto = '3,1393502030469'
             lados="Polígono de 48 lados"
             self.retranslateUi_5(MainWindow,texto,lados)
-            self.poligonoLabel.setPixmap(QtGui.QPixmap("/home/pedroflorencio/Documents/Encontro 2021/pifinal/images2/fortyeight.png"))
+            self.poligonoLabel.setPixmap(QtGui.QPixmap("pi-seara-da-ciencia/images2/fortyeight.png"))
 
         # 96 lados    
         elif position == 9:
             texto = '3,1410319508905'
             lados="Polígono de 96 lados"
             self.retranslateUi_5(MainWindow,texto,lados)
-            self.poligonoLabel.setPixmap(QtGui.QPixmap("/home/pedroflorencio/Documents/Encontro 2021/pifinal/images2/ninetysix.png")) 
+            self.poligonoLabel.setPixmap(QtGui.QPixmap("pi-seara-da-ciencia/images2/ninetysix.png")) 
 
     def explicar(self):
         MainWindow.setObjectName("MainWindow")
@@ -483,7 +483,7 @@ class Ui_MainWindow(object):
         self.label_2 = QtWidgets.QLabel(self.centralwidget)
         self.label_2.setGeometry(QtCore.QRect(160, 470, 700, 240))
         self.label_2.setText("")
-        self.label_2.setPixmap(QtGui.QPixmap("/home/pedroflorencio/Documents/Encontro 2021/pifinal/images2/label.png"))
+        self.label_2.setPixmap(QtGui.QPixmap("pi-seara-da-ciencia/images2/label.png"))
         self.label_2.setObjectName("label_2")
         self.sairButton.clicked.connect(self.inicio)
         self.proximoButton.clicked.connect(self.telacinco)
